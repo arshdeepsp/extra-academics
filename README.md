@@ -1,2 +1,3 @@
-# MITOCW
-Programming courses repository A repository to store code for my self-assigned MIT Courses in Programming and Computer Science. Includes notes, assignments, and projects. For my private use only.
+ # Extra Academics
+
+For my academic pursuits outside of college curricula. To store work scans and code files, etc.
